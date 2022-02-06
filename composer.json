@@ -4,7 +4,8 @@
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
     "version": "1.0.0",
-    "homepage": "http://github.com/martinlindhe/laravel-vue-i18n-generator",
+    "homepage": "http://github.com/leonceaklin/laravel-vue-i18n-generator",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Martin Lindhe",
